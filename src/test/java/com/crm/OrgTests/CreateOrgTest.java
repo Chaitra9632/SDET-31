@@ -12,90 +12,13 @@ public class CreateOrgTest {
 		System.out.println("user 2 modified organization");
 		
 		System.out.println("User 2 update organization");
-		
-		System.out.println("User 2 delete Organization");
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		System.out.println("Hi");
+
+		System.out.println("User 1 deleted Organization");//user 1
+
+
+		
+
 
 	}
 
