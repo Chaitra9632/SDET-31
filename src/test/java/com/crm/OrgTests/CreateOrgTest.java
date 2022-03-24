@@ -11,6 +11,27 @@ public class CreateOrgTest {
 		
 		System.out.println("user 2 modified organization");
 		
+		System.out.println("User 2 update organization");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 
 	}
